@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>vidoe_audio_record.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>F2F6F71E1C1FA925006C546D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F2F6F73A1C1FA925006C546D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F2F6F7451C1FA925006C546D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
