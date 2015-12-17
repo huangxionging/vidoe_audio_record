@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)playVideio:(UIButton *)sender;
+- (IBAction)playMp4File:(UIButton *)sender;
 
 @end
 

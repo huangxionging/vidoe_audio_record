@@ -17,6 +17,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    [[NSUserDefaults standardUserDefaults] setInteger: 0 forKey: @"count"];
     return YES;
 }
 
